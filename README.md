@@ -1,6 +1,6 @@
 # MotionLayout Codelab
 
-This folder contains the source code for the Motion Layout codelab.
+This folder contains the source code for the [Motion Layout codelab](https://codelabs.developers.google.com/codelabs/motion-layout#0).
 
 ### License
 
